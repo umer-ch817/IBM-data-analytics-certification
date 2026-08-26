@@ -17,14 +17,14 @@ A Jupyter Notebook project on **Extracting and Visualizing Stock Data**. It cove
 - Final output: side-by-side stock price vs. revenue dashboards for Tesla and GameStop (data up to June 2021).
 
 **Tools:** `yfinance`, `pandas`, `BeautifulSoup`, `matplotlib`
-[Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.xlsx](Revenue_Data_and_Building_a_Dashboard_v1.ipynb)
+[Revenue_Data_and_Building_a_Dashboard_v1.ipynb](Revenue_Data_and_Building_a_Dashboard_v1.ipynb)
 ---
 
 ### 2. `Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.xlsx`
 **Skill:** Excel for Data Analysis (Data Preparation)
 
 Raw dataset of Montgomery County's fleet equipment inventory (54 rows), listing each **Department**, **Equipment Class**, and **Equipment Count**. This is the starting/cleaned dataset used as the foundation for pivot table analysis in Part 2.
-[File Name](Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.xlsx)
+[Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.xlsx](Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.xlsx)
 ---
 
 ### 3. `Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.xlsx`
@@ -36,7 +36,7 @@ Builds on Part 1 by adding three PivotTables to summarize the fleet inventory da
 - **Pivot Table 3:** Equipment count broken down by Equipment Class and Department (reversed grouping).
 
 Demonstrates the ability to summarize and re-slice raw data using multiple pivot perspectives.
-[File Name](Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.xlsx)
+[Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.xlsx](Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.xlsx)
 ---
 
 ### 4. `CarSalesByModelEnd.xlsx`
@@ -49,7 +49,7 @@ A car sales dataset (3,000+ transaction rows in `Sheet1`) analyzed through four 
 - **Sum of Profits for the Hudson Model** — with chart.
 
 Demonstrates building multiple analytical views and visualizations from a single raw sales dataset.
-[File Name](CarSalesByModelEnd.xlsx)
+[CarSalesByModelEnd.xlsx](CarSalesByModelEnd.xlsx)
 ---
 
 ## 🛠️ Skills Demonstrated
