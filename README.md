@@ -17,7 +17,7 @@ A Jupyter Notebook project on **Extracting and Visualizing Stock Data**. It cove
 - Final output: side-by-side stock price vs. revenue dashboards for Tesla and GameStop (data up to June 2021).
 
 **Tools:** `yfinance`, `pandas`, `BeautifulSoup`, `matplotlib`
-[File Name](Revenue_Data_and_Building_a_Dashboard_v1.ipynb)
+[Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.xlsx](Revenue_Data_and_Building_a_Dashboard_v1.ipynb)
 ---
 
 ### 2. `Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.xlsx`
